@@ -1,0 +1,26 @@
+
+
+#delete-btn{
+    color: black;
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item-container{
+    font-size: 25px;
+    background-color: coral;
+    margin: 2%;
+    align-items: center;
+    width: 50%;
+   
+}
+
+#delete-btn:hover{
+    background-color: black;
+    color: white;
+  }
+
+p{
+   margin: 2%;
+}
